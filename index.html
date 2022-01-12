@@ -6,7 +6,7 @@
   <title>Theo's Personal Site</title>
 </head>
 
-<body style="background-color: B1D0E0;">
+<body style="background-color: cornflowerblue;">
   <table cellspacing='20'>
     <tr>
       <td> <img src="HTMLPersonalSite/theo.png" alt="theo profile picture" width="200" height="200"></td>
