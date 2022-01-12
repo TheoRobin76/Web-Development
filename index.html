@@ -4,9 +4,10 @@
 <head>
   <meta charset="utf-8">
   <title>Theo's Personal Site</title>
+  <link rel="stylesheet" href="HTMLPersonalSite/css/styles.css">
 </head>
 
-<body style="background-color: cornflowerblue;">
+<body>
   <table cellspacing='20'>
     <tr>
       <td> <img src="HTMLPersonalSite/theo.png" alt="theo profile picture" width="200" height="200"></td>
@@ -20,7 +21,7 @@
       </td>
     </tr>
   </table>
-  <hr size="3" noshade>
+  <hr>
 
   <h3>Websites</h3>
   <ul>
@@ -28,14 +29,14 @@
     <li><strong><a href="https://github.com/TheoRobin76">GitHub</a></strong></li>
     <li><strong><a href="https://public.tableau.com/app/profile/theo.robin.gluckstein">Tableau</a></strong></li>
   </ul>
-  <hr size="3" noshade>
+  <hr>
   <h3>Education</h3>
   <ul>
     <li>The Open University</li>
     <li>University of Nottingham</li>
     <li>Haberdashers' Boys' School</li>
   </ul>
-  <hr size="3" noshade>
+  <hr>
   <h3>Work Experience</h3>
   <table cellspacing=5>
     <thead>
@@ -57,7 +58,7 @@
       <td>Customer Service at SilverStar Mountain Resort</td>
     </tr>
   </table>
-  <hr size="3" noshade>
+  <hr>
   <h3>Skills</h3>
   <table cellspacing='5'>
     <tr>
@@ -81,7 +82,7 @@
     </tr>
   </table>
 
-  <hr size="3" noshade>
+  <hr>
   <a href="HTMLPersonalSite/hobbies.html">My Hobbies</a>
   <a href="HTMLPersonalSite/contact.html">Contact Me</a>
 
