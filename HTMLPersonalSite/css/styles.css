@@ -11,10 +11,22 @@
     width: 5%;
   }
 
+  hr:hover {
+    color: #91C483;
+  }
+
   h1 {
     color: cornflowerblue;
   }
 
+  h1:hover {
+    color: #66BFBF;
+  }
+
   h3 {
     color: #66BFBF;
+  }
+
+  h3:hover {
+    color: cornflowerblue;
   }
